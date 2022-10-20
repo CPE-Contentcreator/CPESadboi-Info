@@ -12,3 +12,4 @@ This is repository for collect CPE Sadboi group member information.
 - tanasead 63070501033
 - fnapatharak 63070501018
 - puthchy_ 63070501039
+- thanadol 63070501029
