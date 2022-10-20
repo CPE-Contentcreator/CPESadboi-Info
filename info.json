@@ -8,6 +8,15 @@
             "email": "ksupasate@gmail.com",
             "phone": "0642541965",
             "date-of-birth": "21/02/2545"
+        },
+        {
+            "student_id": "63070501092",
+            "firstname": "Surasee",
+            "lastname": "Saenburanapan",
+            "nickname": "Tay",
+            "email": "surasee.5501@gmail.com",
+            "phone": "0987535343",
+            "date-of-birth": "08/10/2544"
         }
     ]
 }
