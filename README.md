@@ -1,4 +1,5 @@
 # 🧑🏻‍💻 CPESadboi-Information
+This is repository for collect CPE Sadboi group member information
 
 ## Basic Information
 - KNN.S       63070501011 
