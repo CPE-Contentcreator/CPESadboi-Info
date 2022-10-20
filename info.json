@@ -44,6 +44,15 @@
             "email": "nariththanomsup@gmail.com",
             "phone": "0954729142",
             "date-of-birth": "27/03/2545"
+        },
+        {
+            "student_id": "63070501038",
+            "firstname": "Napat",
+            "lastname": "Wareedee",
+            "nickname": "Pat",
+            "email": "napat.wrd@gmail.com",
+            "phone": "0911924480",
+            "date-of-birth": "08/08/2544"
         }
     ]
 }
