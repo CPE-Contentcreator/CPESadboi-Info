@@ -8,6 +8,15 @@
             "email": "ksupasate@gmail.com",
             "phone": "0642541965",
             "date-of-birth": "21/02/2545"
+        },
+        {
+            "student_id": "63070501025",
+            "firstname": "Niwatchai",
+            "lastname": "Wangtrakuldee",
+            "nickname": "Fifa",
+            "email": "niwatchai.wang@gmail.com",
+            "phone": "09313xxxxx",
+            "date-of-birth": "24/03/2545"
         }
     ]
 }
