@@ -26,6 +26,15 @@
             "email": "niwatchai.wang@gmail.com",
             "phone": "09313xxxxx",
             "date-of-birth": "24/03/2545"
+        },
+        {
+            "student_id": "63070501011",
+            "firstname": "Kunanon",
+            "lastname": "Supmamul",
+            "nickname": "Klong",
+            "email": "kunanoon1506@gmail.com",
+            "phone": "09313xxxxx",
+            "date-of-birth": "15/06/2544"
         }
     ]
 }
