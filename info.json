@@ -17,6 +17,15 @@
             "email": "surasee.5501@gmail.com",
             "phone": "0987535343",
             "date-of-birth": "08/10/2544"
+        },
+        {
+            "student_id": "63070501025",
+            "firstname": "Niwatchai",
+            "lastname": "Wangtrakuldee",
+            "nickname": "Fifa",
+            "email": "niwatchai.wang@gmail.com",
+            "phone": "09313xxxxx",
+            "date-of-birth": "24/03/2545"
         }
     ]
 }
