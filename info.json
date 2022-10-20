@@ -44,6 +44,15 @@
             "email": "nariththanomsup@gmail.com",
             "phone": "0954729142",
             "date-of-birth": "27/03/2545"
+        },
+        {
+            "student_id": "63070501029",
+            "firstname": "Thanadol",
+            "lastname": "Thongrit",
+            "nickname": "Dol",
+            "email": "thanadol.thongrit@gmail.com",
+            "phone": "0613060446",
+            "date-of-birth": "24/08/2544"
         }
     ]
 }
