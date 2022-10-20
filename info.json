@@ -44,6 +44,15 @@
             "email": "nariththanomsup@gmail.com",
             "phone": "0954729142",
             "date-of-birth": "27/03/2545"
+        },
+        {
+            "student_id": "63070501033",
+            "firstname": "Tansead",
+            "lastname": "Rattanapan",
+            "nickname": "Gongz",
+            "email": "tanasead.tnz@gmail.com",
+            "phone": "0838951842    ",
+            "date-of-birth": "16/11/2544"
         }
     ]
 }
