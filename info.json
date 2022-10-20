@@ -10,6 +10,15 @@
             "date-of-birth": "21/02/2545"
         },
         {
+            "student_id": "63070501092",
+            "firstname": "Surasee",
+            "lastname": "Saenburanapan",
+            "nickname": "Tay",
+            "email": "surasee.5501@gmail.com",
+            "phone": "0987535343",
+            "date-of-birth": "08/10/2544"
+        },
+        {
             "student_id": "63070501025",
             "firstname": "Niwatchai",
             "lastname": "Wangtrakuldee",
