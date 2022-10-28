@@ -44,6 +44,42 @@
             "email": "nariththanomsup@gmail.com",
             "phone": "0954729142",
             "date-of-birth": "27/03/2545"
+        },
+        {
+            "student_id": "63070501029",
+            "firstname": "Thanadol",
+            "lastname": "Thongrit",
+            "nickname": "Dol",
+            "email": "thanadol.thongrit@gmail.com",
+            "phone": "0613060446",
+            "date-of-birth": "24/08/2544"
+        },
+        {
+            "student_id": "63070501038",
+            "firstname": "Napat",
+            "lastname": "Wareedee",
+            "nickname": "Pat",
+            "email": "napat.wrd@gmail.com",
+            "phone": "0911924480",
+            "date-of-birth": "08/08/2544"
+        },
+        {
+            "student_id": "63070501033",
+            "firstname": "Tansead",
+            "lastname": "Rattanapan",
+            "nickname": "Gongz",
+            "email": "tanasead.tnz@gmail.com",
+            "phone": "0838951842",
+            "date-of-birth": "16/11/2544"
+        },
+        {
+            "student_id": "63070501059",
+            "firstname": "Sakchai",
+            "lastname": "Paoin",
+            "nickname": "Kong",
+            "email": "kongs.sakchai@gmail.com",
+            "phone": "0990055404",
+            "date-of-birth": "21/10/2543"
         }
     ]
 }
