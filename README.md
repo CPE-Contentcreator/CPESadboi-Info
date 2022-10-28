@@ -11,5 +11,6 @@ This is repository for collect CPE Sadboi group member information.
 - fniwatchai 63070501025
 - tanasead 63070501033
 - fnapatharak 63070501018
-- puthchy_ 63070501039
+- narith 63070501039
 - thanadol 63070501029
+
